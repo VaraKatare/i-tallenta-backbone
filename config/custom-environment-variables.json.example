@@ -1,0 +1,15 @@
+{
+    "db": {
+        "uri": "TALLENTA_URI_DB",
+        "user": "TALLENTA_USER_DB",
+        "pass": "TALLENTA_PASS_DB"
+    },
+    "secret": {
+        "jwt": "TALLENTA_JWT_SECRET",
+        "google_oauth": "TALLENTA_GOOGLE_OAUTH_SECRET",
+        "facebook_app": "TALLENTA_FACEBOOK_APP_SECRET"
+    },
+    "app_id": {
+        "facebook_app": "TALLENTA_FACEBOOK_APP_ID"
+    }
+}
